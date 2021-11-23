@@ -5,7 +5,6 @@
 - Obsidian
 - Notion
 
-
 ## 筆記方式
 ### 上課筆記
 1. 在上課的時候手寫在Goodnote
@@ -20,3 +19,7 @@
 	- 把筆記上傳Obsidian
 3. 錯題本
 	- 習題及錯題本就在Goodnote上就好了
+
+## 使用更新
+- 封存看版 改用Habitica
+- 新增其他專案看版
