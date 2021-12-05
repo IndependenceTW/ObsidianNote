@@ -36,7 +36,7 @@ Penguin.fly = function(where){
 var Duck = Object.create(Bird);
 Duck.name = "Duck";
 Duck.quack = function(){
-	console.log(this.name + ": can't fly.);
+	console.log(this.name + ": quack!");
 };
 ```
 
