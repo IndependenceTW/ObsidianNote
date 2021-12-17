@@ -23,3 +23,13 @@
 ## 使用更新
 - 封存看版 改用Habitica
 - 新增其他專案看版
+
+## 使用的插件
+- calendar
+- emoji-shortcodes
+- obsidian-code-block-enhancer
+- obsidian-emoji-toolbar
+- obsidian-git
+- obsidian-kanban
+- obsidian-toggl-integration
+- table-editor-obsidian
