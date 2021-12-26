@@ -3,7 +3,6 @@
 ## 筆記工具
 - GoodNote
 - Obsidian
-- Notion
 
 ## 筆記方式
 ### 上課筆記
