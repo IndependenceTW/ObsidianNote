@@ -1,0 +1,9 @@
+# Summary 5
+```two chunk paragraph```
+## What teacher Said?
+
+Nowadays, the computing power of each device is more and more strong, and inexpensive. Thus, data encryption is no longer a perfect solution because the bad guy may use a brute-force attack to decrypt the data by a strong power computer. To avoid the bad guy stealing our data, we need to make data transfer on a safe path instead of the shortest path that will go through the insecure area. The insecure area is the device connected to the bad guy directly. To avoid the insecure area, we need to consider some conditions in the viewpoint of a graph. First is the bounded condition that there is no graph cut. In other words, the point which will break the graph when taken it out from the graph doesn't exist. If there is a graph cut, the only way to the destination point is through the cut point, we can't find another safer way to the destination. The second condition is the safe path condition. That is we can find a way to arrive at the destination without passing the insecure area. How about we can't find a safe path if we are in the bounded condition. Here comes the third condition, the MPAR condition. The MPAR condition is that the different ways have no common insecure area of the bad buys. Moreover, the solution to this condition is just breaking the data into several pieces. When the bad guy gets it, they will think the data is garbage. However, it is part of secret data.
+
+## My opinion
+
+MPBA supply the service provider with another way to protect their data. However, I think this is not enough for the bad guy. If MPBA adds to an encryption way to protect the data will make the data safer. Another problem may be the delay of the net because the customers are greedy, they want both safety and speed. How to reduce the delay may be a huge problem if this technique wants to be commercialized.

@@ -6,4 +6,5 @@ Software development is not easy at all. Some people thought that developing an 
 
 
 ## My opinion
+
 It is hard for nowadays computer science students to learn how to code a high-quality program because there are lots of subjects, including computer organization, algorithms, operation systems, and so on. The only way we learn how to code well is based on homework. We can code our program homework in a readable way, rather than quickly solve the question. 
